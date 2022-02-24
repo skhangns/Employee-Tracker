@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Tracks Employees ",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skhangns/Employee-Tracker.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Soheab Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skhangns/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/skhangns/Employee-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
